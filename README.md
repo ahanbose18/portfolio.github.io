@@ -1,10 +1,10 @@
 # Welcome to My Portfolio Website
 ![GIF](https://github.com/ahanbose18/portfolio.github.io/blob/master/ezgif.com-video-to-gif.gif)</br>
-This is a fully responsive website. This project is based on HTML,CSS and Javascript in its entirety. No Framework Used. Logo Design and coding entierly done by Ahan Bose
+This is a fully responsive website. This project is based on HTML,CSS and Javascript in its entirety. No Framework Used. Logo Design and coding done by Ahan Bose
 ### Check out the website at -> 
    [MyportfolioWebsite](https://ahanbose18.github.io/portfolio.github.io/)
    
-## Website if FULLY RESPONSIVE 
+## Website is FULLY RESPONSIVE 
 
 ## Technologies
 
