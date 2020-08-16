@@ -23,7 +23,10 @@ This is a fully responsive website. This project is based on HTML,CSS and Javasc
  # Preview
  
  ## Desktop View
- 
+   ![](https://github.com/ahanbose18/portfolio.github.io/blob/master/LandingPage1.png)</br>
+   ![](https://github.com/ahanbose18/portfolio.github.io/blob/master/LandinPage2.png)</br>
+   ![](https://github.com/ahanbose18/portfolio.github.io/blob/master/LandingPage3.png)</br>
+   ![](https://github.com/ahanbose18/portfolio.github.io/blob/master/LandingPage3%20(2).png)</br>
  ## Mobile View
  
  ## My skills
